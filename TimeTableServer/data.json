@@ -1,0 +1,245 @@
+{
+  "studyingSystem": 6,
+  "records": [
+    {
+      "className": "1a",
+      "appointments": [
+        {
+          "subject": "Literature",
+          "teacher": "LitTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Russian",
+          "teacher": "RusTeacher",
+          "numOfHours": 5
+        },
+        {
+          "subject": "Math",
+          "teacher": "MathTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Sport",
+          "teacher": "SportTeacher",
+          "numOfHours": 3
+        },
+        {
+          "subject": "OkrMir",
+          "teacher": "OkrMirTeacher",
+          "numOfHours": 2
+        },
+        {
+          "subject": "Technology",
+          "teacher": "TechTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "IZO",
+          "teacher": "IzoTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "Music",
+          "teacher": "MusicTeacher",
+          "numOfHours": 1
+        }
+      ]
+    },
+    {
+      "className": "1b",
+      "appointments": [
+        {
+          "subject": "Literature",
+          "teacher": "LitTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Russian",
+          "teacher": "RusTeacher",
+          "numOfHours": 5
+        },
+        {
+          "subject": "Math",
+          "teacher": "MathTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Sport",
+          "teacher": "SportTeacher",
+          "numOfHours": 3
+        },
+        {
+          "subject": "OkrMir",
+          "teacher": "OkrMirTeacher",
+          "numOfHours": 2
+        },
+        {
+          "subject": "Technology",
+          "teacher": "TechTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "IZO",
+          "teacher": "IzoTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "Music",
+          "teacher": "MusicTeacher",
+          "numOfHours": 1
+        }
+      ]
+    },
+    {
+      "className": "2a",
+      "appointments": [
+        {
+          "subject": "Literature",
+          "teacher": "LitTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Russian",
+          "teacher": "RusTeacher",
+          "numOfHours": 5
+        },
+        {
+          "subject": "Math",
+          "teacher": "MathTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Sport",
+          "teacher": "SportTeacher",
+          "numOfHours": 3
+        },
+        {
+          "subject": "OkrMir",
+          "teacher": "OkrMirTeacher",
+          "numOfHours": 2
+        },
+        {
+          "subject": "Technology",
+          "teacher": "TechTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "IZO",
+          "teacher": "IzoTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "Music",
+          "teacher": "MusicTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "English",
+          "teacher": "EngTeacher",
+          "numOfHours": 2
+        }
+      ]
+    },
+    {
+      "className": "2b",
+      "appointments": [
+        {
+          "subject": "Literature",
+          "teacher": "LitTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Russian",
+          "teacher": "RusTeacher",
+          "numOfHours": 5
+        },
+        {
+          "subject": "Math",
+          "teacher": "MathTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Sport",
+          "teacher": "SportTeacher",
+          "numOfHours": 3
+        },
+        {
+          "subject": "OkrMir",
+          "teacher": "OkrMirTeacher",
+          "numOfHours": 2
+        },
+        {
+          "subject": "Technology",
+          "teacher": "TechTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "IZO",
+          "teacher": "IzoTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "Music",
+          "teacher": "MusicTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "English",
+          "teacher": "EngTeacher",
+          "numOfHours": 2
+        }
+      ]
+    },
+    {
+      "className": "2v",
+      "appointments": [
+        {
+          "subject": "Literature",
+          "teacher": "LitTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Russian",
+          "teacher": "RusTeacher",
+          "numOfHours": 5
+        },
+        {
+          "subject": "Math",
+          "teacher": "MathTeacher",
+          "numOfHours": 4
+        },
+        {
+          "subject": "Sport",
+          "teacher": "SportTeacher",
+          "numOfHours": 3
+        },
+        {
+          "subject": "OkrMir",
+          "teacher": "OkrMirTeacher",
+          "numOfHours": 2
+        },
+        {
+          "subject": "Technology",
+          "teacher": "TechTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "IZO",
+          "teacher": "IzoTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "Music",
+          "teacher": "MusicTeacher",
+          "numOfHours": 1
+        },
+        {
+          "subject": "English",
+          "teacher": "EngTeacher",
+          "numOfHours": 2
+        }
+      ]
+    }
+  ]
+}

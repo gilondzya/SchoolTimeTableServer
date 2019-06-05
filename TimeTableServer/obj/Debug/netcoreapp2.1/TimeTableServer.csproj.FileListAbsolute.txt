@@ -1,0 +1,28 @@
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.deps.json
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.runtimeconfig.json
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.runtimeconfig.dev.json
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.dll
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.pdb
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.csprojAssemblyReference.cache
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.csproj.CoreCompileInputs.cache
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorAssemblyInfo.cache
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorAssemblyInfo.cs
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.AssemblyInfoInputs.cache
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.AssemblyInfo.cs
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorTargetAssemblyInfo.cache
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.dll
+C:\Users\Sonechka\source\repos\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.pdb
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.deps.json
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.runtimeconfig.json
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.runtimeconfig.dev.json
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.dll
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\bin\Debug\netcoreapp2.1\TimeTableServer.pdb
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.csprojAssemblyReference.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.csproj.CoreCompileInputs.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorAssemblyInfo.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorAssemblyInfo.cs
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.AssemblyInfoInputs.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.AssemblyInfo.cs
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.RazorTargetAssemblyInfo.cache
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.dll
+C:\Users\Sonechka\Desktop\Учеба\7 семестр\Диплом\TimeTableServer\TimeTableServer\obj\Debug\netcoreapp2.1\TimeTableServer.pdb
